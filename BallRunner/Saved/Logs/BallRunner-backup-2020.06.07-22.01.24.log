@@ -1,0 +1,1052 @@
+﻿Log file open, 06/07/20 21:07:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BallRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.551106
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.121s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 650
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.06.07-19.07.48:622][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-19.07.48:622][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.07-19.07.48:640][  0]LogHAL: Display: Platform has ~ 16 GB [17109311488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.07-19.07.48:640][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.06.07-19.07.48:640][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.07-19.07.48:640][  0]LogInit: Computer: JARVIS2
+[2020.06.07-19.07.48:640][  0]LogInit: User: guzim
+[2020.06.07-19.07.48:640][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.06.07-19.07.48:640][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.07-19.07.48:641][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.07-19.07.48:641][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.07-19.07.48:641][  0]LogMemory: Process Physical Memory: 101.86 MB used, 101.86 MB peak
+[2020.06.07-19.07.48:641][  0]LogMemory: Process Virtual Memory: 91.00 MB used, 91.00 MB peak
+[2020.06.07-19.07.48:641][  0]LogMemory: Physical Memory: 6253.22 MB used,  10063.49 MB free, 16316.71 MB total
+[2020.06.07-19.07.48:641][  0]LogMemory: Virtual Memory: 4661.61 MB used,  10063.49 MB free, 134217728.00 MB total
+[2020.06.07-19.07.48:663][  0]LogInit: Using OS detected language (en-GB).
+[2020.06.07-19.07.48:663][  0]LogInit: Using OS detected locale (en-GB).
+[2020.06.07-19.07.48:664][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.06.07-19.07.49:051][  0]LogStreaming: Display: Took  0.388s to InitEngineTextLocalization.
+[2020.06.07-19.07.49:052][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.07-19.07.49:092][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.07-19.07.49:092][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.07-19.07.49:311][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.07-19.07.49:311][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.07-19.07.49:386][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 650' (Feature Level 11_0)
+[2020.06.07-19.07.49:386][  0]LogD3D11RHI:       2007/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.07-19.07.49:389][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.07-19.07.49:389][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.07-19.07.49:389][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.07-19.07.49:398][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.07-19.07.49:399][  0]LogD3D11RHI:     GPU DeviceId: 0xfc6 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.07-19.07.49:399][  0]LogWindows: EnumDisplayDevices:
+[2020.06.07-19.07.49:399][  0]LogWindows:    0. 'NVIDIA GeForce GTX 650' (P:1 D:1)
+[2020.06.07-19.07.49:399][  0]LogWindows:    1. 'NVIDIA GeForce GTX 650' (P:0 D:1)
+[2020.06.07-19.07.49:399][  0]LogWindows:    2. 'NVIDIA GeForce GTX 650' (P:0 D:0)
+[2020.06.07-19.07.49:399][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.06.07-19.07.49:399][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 650
+[2020.06.07-19.07.49:399][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.06.07-19.07.49:399][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.06.07-19.07.49:399][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2020.06.07-19.07.49:452][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.07-19.07.49:471][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.06.07-19.07.49:474][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Intermediate/Shaders/WorkingDirectory/8084/).
+[2020.06.07-19.07.49:474][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/guzim/AppData/Local/Temp/UnrealShaderWorkingDir/9C08213A43CB5FDEC0A2CB8AB585047B/'.
+[2020.06.07-19.07.49:751][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.06.07-19.07.49:767][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.06.07-19.07.49:785][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.06.07-19.07.49:802][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.06.07-19.07.49:818][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.06.07-19.07.49:834][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.06.07-19.07.49:850][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.06.07-19.07.49:868][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.06.07-19.07.49:876][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.06.07-19.07.49:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:977][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.07-19.07.49:979][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.06.07-19.07.50:046][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.07-19.07.50:046][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.07-19.07.50:075][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.07-19.07.50:075][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.07-19.07.50:090][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.06.07-19.07.50:106][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.06.07-19.07.50:121][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.06.07-19.07.50:137][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.06.07-19.07.50:148][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.06.07-19.07.50:148][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.07-19.07.50:214][  0]LogXGEController: Cleaning working directory: C:/Users/guzim/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.07-19.07.50:214][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.07-19.07.50:214][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.07-19.07.50:214][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.07-19.07.51:129][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.07-19.07.51:186][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/guzim/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.06.07-19.07.51:186][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/guzim/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.06.07-19.07.51:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.07-19.07.51:187][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.07-19.07.51:187][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.07-19.07.51:187][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.07-19.07.51:206][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.07-19.07.51:219][  0]LogDerivedDataCache: Using Local data cache path C:/Users/guzim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.07-19.07.51:219][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.07-19.07.51:219][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.07-19.07.51:240][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.07-19.07.51:242][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.07-19.07.51:242][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.07-19.07.51:325][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2020.06.07-19.07.51:700][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-19.07.51:754][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.06.07-19.07.51:758][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.06.07-19.07.51:758][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.07-19.07.51:758][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.07-19.07.51:758][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.06.07-19.07.51:851][  0]LogNetVersion: BallRunner 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 346235534)
+[2020.06.07-19.07.52:421][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.133915 seconds
+[2020.06.07-19.07.52:431][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2020.06.07-19.07.52:431][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2020.06.07-19.07.52:431][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.07-19.07.53:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.07-19.07.53:335][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.07-19.07.53:484][  0]SourceControl: Source control is disabled
+[2020.06.07-19.07.53:484][  0]SourceControl: Source control is disabled
+[2020.06.07-19.07.53:485][  0]SourceControl: Source control is disabled
+[2020.06.07-19.07.53:486][  0]SourceControl: Source control is disabled
+[2020.06.07-19.07.53:664][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.07-19.07.53:738][  0]LogOcInput: OculusInput pre-init called
+[2020.06.07-19.07.53:805][  0]LogEngine: Initializing Engine...
+[2020.06.07-19.07.53:806][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.07-19.07.53:807][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.07-19.07.53:807][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.07-19.07.53:807][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.07-19.07.53:807][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.07-19.07.54:055][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.07-19.07.54:069][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.07-19.07.54:083][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.07.54:101][  0]LogInit: FAudioDevice initialized.
+[2020.06.07-19.07.54:101][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.07-19.07.54:353][  0]LogDerivedDataCache: Saved boot cache 0.25s 71MB C:/Users/guzim/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.06.07-19.07.54:358][  0]LogInit: Texture streaming: Enabled
+[2020.06.07-19.07.54:380][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.07-19.07.54:397][  0]LogInit: Transaction tracking system initialized
+[2020.06.07-19.07.54:421][  0]BlueprintLog: New page: Editor Load
+[2020.06.07-19.07.54:511][  0]LocalizationService: Localization service is disabled
+[2020.06.07-19.07.54:780][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.07-19.07.54:780][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.07-19.07.54:780][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.06.07-19.07.54:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.07-19.07.54:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.07-19.07.54:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.07-19.07.54:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.07-19.07.54:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/' took 0.02s
+[2020.06.07-19.07.54:923][  0]SourceControl: Source control is disabled
+[2020.06.07-19.07.54:923][  0]Cmd: MAP LOAD FILE="../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-19.07.54:923][  0]LightingResults: New page: Lighting Build
+[2020.06.07-19.07.54:928][  0]MapCheck: New page: Map Check
+[2020.06.07-19.07.54:928][  0]LightingResults: New page: Lighting Build
+[2020.06.07-19.07.55:293][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.06.07-19.07.55:301][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-19.07.55:338][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-19.07.55:429][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.298ms to complete.
+[2020.06.07-19.07.55:429][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.506
+[2020.06.07-19.07.55:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.07.55:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.07.55:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.07.55:564][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.07.55:571][  0]LogCollectionManager: Loaded 0 collections in 0.001733 seconds
+[2020.06.07-19.07.55:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/Collections/' took 0.01s
+[2020.06.07-19.07.55:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/Developers/guzim/Collections/' took 0.01s
+[2020.06.07-19.07.55:616][  0]LogFileCache: Scanning file cache for directory 'C:/Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/Collections/' took 0.01s
+[2020.06.07-19.07.55:616][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.07-19.07.55:626][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2572 classes and 603 folders.
+[2020.06.07-19.07.55:636][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.07-19.07.55:691][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.07-19.07.55:700][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.06.07-19.07.55:800][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.07-19.07.55:801][  0]LogLoad: (Engine Initialization) Total time: 9.53 seconds
+[2020.06.07-19.07.55:801][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.07-19.07.55:831][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.07-19.07.55:832][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.07-19.07.55:834][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.07-19.07.55:839][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.07-19.07.55:949][  0]LogRenderer: Reallocating scene render targets to support 848x528 Format 10 NumSamples 1 (Frame:1).
+[2020.06.07-19.07.56:040][  1]LogAssetRegistry: Asset discovery search completed in 4.7385 seconds
+[2020.06.07-19.07.56:042][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.07-19.07.56:042][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2020.06.07-19.08.00:000][449]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-19.08.03:170][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.08.05:858][141]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-19.08.06:031][141]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.08.06:049][141]LogAssetEditorManager: Opening Asset editor for World /Game/LEVEL/MainLevel.MainLevel
+[2020.06.07-19.08.06:102][141]Cmd: MAP LOAD FILE="../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/LEVEL/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-19.08.06:102][141]LightingResults: New page: Lighting Build
+[2020.06.07-19.08.06:102][141]LoadErrors: New page: Loading map: MainLevel.umap
+[2020.06.07-19.08.06:103][141]MapCheck: New page: Map Check
+[2020.06.07-19.08.06:103][141]LightingResults: New page: Lighting Build
+[2020.06.07-19.08.06:206][141]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-19.08.06:276][141]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-19.08.06:377][141]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.012ms to complete.
+[2020.06.07-19.08.06:377][141]LogFileHelpers: Loading map 'MainLevel' took 0.276
+[2020.06.07-19.11.08:974][398]Cmd: POLY SELECT MATCHING BRUSH
+[2020.06.07-19.11.10:760][604]Cmd: DELETE
+[2020.06.07-19.11.10:760][604]Cmd: ACTOR DELETE
+[2020.06.07-19.11.10:765][604]LogEditorActor: Deleted Actor: Brush
+[2020.06.07-19.11.10:830][604]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2020.06.07-19.11.17:272][206]Cmd: TRANSACTION UNDO
+[2020.06.07-19.11.17:272][206]LogEditorTransaction: Undo Delete Actors
+[2020.06.07-19.11.25:780][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.11.37:361][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.11.46:311][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.12.10:467][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.12.18:505][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.12.25:537][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.12.30:763][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.12.50:970][761]Cmd: EDIT COPY
+[2020.06.07-19.12.51:230][791]Cmd: EDIT PASTE
+[2020.06.07-19.13.00:445][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.13.19:177][423]Cmd: TRANSACTION UNDO
+[2020.06.07-19.13.19:177][423]LogEditorTransaction: Undo Move Actors
+[2020.06.07-19.13.19:438][433]Cmd: TRANSACTION UNDO
+[2020.06.07-19.13.19:438][433]LogEditorTransaction: Undo Move Actors
+[2020.06.07-19.13.19:961][486]Cmd: TRANSACTION UNDO
+[2020.06.07-19.13.19:961][486]LogEditorTransaction: Undo Rotate Actors
+[2020.06.07-19.13.23:173][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.13.28:582][339]Cmd: TRANSACTION UNDO
+[2020.06.07-19.13.28:582][339]LogEditorTransaction: Undo Rotate Actors
+[2020.06.07-19.13.56:837][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.14.13:310][811]LogEditorViewport: Clicking Background
+[2020.06.07-19.14.17:413][275]Cmd: POLY SELECT MATCHING BRUSH
+[2020.06.07-19.14.20:136][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.15.15:909][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.15.54:657][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.15.57:979][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.16.00:719][ 80]Cmd: POLY SELECT MATCHING BRUSH
+[2020.06.07-19.16.01:567][178]LogEditorViewport: Clicking Background
+[2020.06.07-19.16.04:260][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.16.15:108][749]LogEditorViewport: Clicking Background
+[2020.06.07-19.18.05:651][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.18.05:814][  3]LogSavePackage: Moving '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/MainLevel_Auto1588496C64EFA0921861DE2BE6C093FD2.tmp' to '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/Autosaves/Game/LEVEL/MainLevel_Auto1.umap'
+[2020.06.07-19.18.05:819][  3]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LEVEL/MainLevel' took 0.133
+[2020.06.07-19.18.05:819][  3]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2020.06.07-19.27.52:511][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.28.07:166][657]LogEditorViewport: Clicking Background
+[2020.06.07-19.28.08:944][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.28.09:044][818]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.28.09:065][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.28.09:078][818]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:28:09)
+[2020.06.07-19.28.09:078][818]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.28.09:083][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004480s)
+[2020.06.07-19.28.09:083][818]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.28.09:084][818]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2020.06.07-19.28.09:084][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005408s)
+[2020.06.07-19.28.09:128][818]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.28.09:142][818]LogInit: FAudioDevice initialized.
+[2020.06.07-19.28.09:190][818]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.28.09:192][818]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.28.09
+[2020.06.07-19.28.09:192][818]LogWorld: Bringing up level for play took: 0.001084
+[2020.06.07-19.28.09:211][818]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2020.06.07-19.28.09:212][818]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.108
+[2020.06.07-19.28.12:837][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.28.12:883][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.28.12:919][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.28.12:949][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.06.07-19.28.15:568][317]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.06.07-19.28.17:393][475]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.28.18:523][581]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.28.19:259][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.28.19:334][634]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.28.19:356][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.28.19:356][634]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:28:19)
+[2020.06.07-19.28.19:356][634]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.28.19:361][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004570s)
+[2020.06.07-19.28.19:361][634]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.28.19:361][634]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2020.06.07-19.28.19:361][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005397s)
+[2020.06.07-19.28.19:404][634]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.28.19:415][634]LogInit: FAudioDevice initialized.
+[2020.06.07-19.28.19:448][634]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.28.19:449][634]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.28.19
+[2020.06.07-19.28.19:449][634]LogWorld: Bringing up level for play took: 0.000854
+[2020.06.07-19.28.19:462][634]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.358
+[2020.06.07-19.28.46:442][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.28.46:486][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.28.46:521][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.28.46:548][764]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.06.07-19.28.54:709][540]Cmd: POLY SELECT MATCHING BRUSH
+[2020.06.07-19.28.57:145][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.29.01:597][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.29.51:400][892]Cmd: TRANSACTION UNDO
+[2020.06.07-19.29.51:400][892]LogEditorTransaction: Undo Move Actors
+[2020.06.07-19.29.52:141][967]Cmd: TRANSACTION UNDO
+[2020.06.07-19.29.52:141][967]LogEditorTransaction: Undo Select Brush Surface
+[2020.06.07-19.30.01:344][805]Cmd: TRANSACTION UNDO
+[2020.06.07-19.30.01:344][805]LogEditorTransaction: Undo Move Actors
+[2020.06.07-19.30.05:319][153]Cmd: SELECT NONE
+[2020.06.07-19.30.40:333][391]Cmd: SELECT NONE
+[2020.06.07-19.30.46:762][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.30.46:853][924]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.30.46:875][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.30.46:875][924]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:30:46)
+[2020.06.07-19.30.46:875][924]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.30.46:879][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004312s)
+[2020.06.07-19.30.46:880][924]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.30.46:880][924]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2020.06.07-19.30.46:880][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005161s)
+[2020.06.07-19.30.46:922][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.30.46:937][924]LogInit: FAudioDevice initialized.
+[2020.06.07-19.30.46:972][924]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.30.46:973][924]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.30.46
+[2020.06.07-19.30.46:973][924]LogWorld: Bringing up level for play took: 0.000914
+[2020.06.07-19.30.46:986][924]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.118
+[2020.06.07-19.30.59:262][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.30.59:304][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.30.59:349][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.30.59:372][904]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.06.07-19.31.00:013][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.31.00:113][992]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.31.00:136][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.31.00:136][992]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:31:00)
+[2020.06.07-19.31.00:136][992]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.31.00:140][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004192s)
+[2020.06.07-19.31.00:141][992]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.31.00:141][992]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2020.06.07-19.31.00:141][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005096s)
+[2020.06.07-19.31.00:184][992]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.31.00:196][992]LogInit: FAudioDevice initialized.
+[2020.06.07-19.31.00:228][992]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.31.00:229][992]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.31.00
+[2020.06.07-19.31.00:229][992]LogWorld: Bringing up level for play took: 0.000917
+[2020.06.07-19.31.00:242][992]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.862
+[2020.06.07-19.31.17:394][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.31.17:441][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.31.17:479][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.31.17:505][385]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.07-19.31.18:234][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.31.18:309][480]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.31.18:330][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.31.18:330][480]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:31:18)
+[2020.06.07-19.31.18:330][480]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.31.18:335][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004221s)
+[2020.06.07-19.31.18:335][480]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.31.18:335][480]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2020.06.07-19.31.18:335][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005100s)
+[2020.06.07-19.31.18:379][480]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.31.18:390][480]LogInit: FAudioDevice initialized.
+[2020.06.07-19.31.18:422][480]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.31.18:423][480]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.31.18
+[2020.06.07-19.31.18:423][480]LogWorld: Bringing up level for play took: 0.000958
+[2020.06.07-19.31.18:436][480]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.669
+[2020.06.07-19.31.36:605][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.31.36:647][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.31.36:687][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.31.36:716][938]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.06.07-19.31.42:978][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.32.27:723][772]LogSavePackage: Moving '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/MainLevel_Auto2950259814D167107F3CF54BDDDEBE23A.tmp' to '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/Autosaves/Game/LEVEL/MainLevel_Auto2.umap'
+[2020.06.07-19.32.27:727][772]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LEVEL/MainLevel' took 0.184
+[2020.06.07-19.32.27:727][772]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2020.06.07-19.41.06:503][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.41.37:104][938]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\guzim\OneDrive\Documents\ramp.fbx)
+[2020.06.07-19.41.37:120][938]LogFbx: Loading FBX Scene from C:\Users\guzim\OneDrive\Documents\ramp.fbx
+[2020.06.07-19.41.37:127][938]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.07-19.41.44:490][938]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.07-19.41.44:519][938]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\guzim\OneDrive\Documents\tube.fbx)
+[2020.06.07-19.41.49:087][274]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\guzim\OneDrive\Documents\tube.fbx)
+[2020.06.07-19.41.49:099][274]LogFbx: Loading FBX Scene from C:\Users\guzim\OneDrive\Documents\tube.fbx
+[2020.06.07-19.41.49:106][274]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.07-19.41.53:475][274]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.07-19.41.53:499][274]LogFbx: Warning: Triangulating static mesh Cylinder
+[2020.06.07-19.41.53:524][274]LogStaticMesh: Building static mesh tube...
+[2020.06.07-19.41.53:533][274]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/tube.tube
+[2020.06.07-19.41.53:581][274]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.07-19.41.53:596][274]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\guzim\OneDrive\Documents\ramp.fbx)
+[2020.06.07-19.41.53:608][274]LogFbx: Loading FBX Scene from C:\Users\guzim\OneDrive\Documents\ramp.fbx
+[2020.06.07-19.41.53:615][274]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.07-19.41.53:616][274]LogFbx: Warning: Triangulating static mesh Cylinder.001
+[2020.06.07-19.41.53:626][274]LogStaticMesh: Building static mesh ramp_Cylinder_001...
+[2020.06.07-19.41.53:630][274]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/ramp_Cylinder_001.ramp_Cylinder_001
+[2020.06.07-19.41.53:643][274]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.07-19.41.53:643][274]FBXImport: Error: No polygon were found on mesh  'Cylinder' 
+[2020.06.07-19.41.59:153][923]LogSlate: Window 'Message Log' being destroyed
+[2020.06.07-19.41.59:156][923]LogSlate: Window 'Message Log' being destroyed
+[2020.06.07-19.42.00:296][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.42.05:167][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.42.05:334][485]LogActorFactory: Actor Factory created tube
+[2020.06.07-19.42.05:874][530]LogActorFactory: Actor Factory created tube
+[2020.06.07-19.42.43:160][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.42.45:454][999]LogEditorViewport: Clicking Background
+[2020.06.07-19.42.46:456][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tube)
+[2020.06.07-19.43.28:307][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.43.28:488][693]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.43.28:977][733]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.44.16:687][982]Cmd: SELECT NONE
+[2020.06.07-19.44.19:297][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.44.19:372][212]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.44.19:392][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.44.19:392][212]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:44:19)
+[2020.06.07-19.44.19:392][212]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.44.19:397][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004568s)
+[2020.06.07-19.44.19:398][212]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.44.19:398][212]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2020.06.07-19.44.19:398][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005680s)
+[2020.06.07-19.44.19:442][212]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.44.19:455][212]LogInit: FAudioDevice initialized.
+[2020.06.07-19.44.19:488][212]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.44.19:489][212]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.44.19
+[2020.06.07-19.44.19:489][212]LogWorld: Bringing up level for play took: 0.000938
+[2020.06.07-19.44.19:502][212]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.398
+[2020.06.07-19.44.51:928][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.44.51:974][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.44.52:012][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.44.52:040][915]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.06.07-19.44.55:646][215]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.06.07-19.44.57:498][390]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.44.59:197][521]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.02:268][783]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.03:612][875]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.04:757][  6]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.05:621][ 85]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.07:011][205]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.09:150][391]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.16:226][ 30]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.16:768][ 84]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.06.07-19.45.17:214][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.45.17:289][142]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.45.17:310][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.45.17:311][142]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:45:17)
+[2020.06.07-19.45.17:311][142]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.45.17:315][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004352s)
+[2020.06.07-19.45.17:316][142]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.45.17:316][142]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2020.06.07-19.45.17:316][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005256s)
+[2020.06.07-19.45.17:360][142]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.45.17:372][142]LogInit: FAudioDevice initialized.
+[2020.06.07-19.45.17:408][142]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.45.17:410][142]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.45.17
+[2020.06.07-19.45.17:410][142]LogWorld: Bringing up level for play took: 0.000960
+[2020.06.07-19.45.17:423][142]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.319
+[2020.06.07-19.45.20:471][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.45.20:509][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.45.20:547][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.45.20:578][403]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.06.07-19.45.21:329][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tube)
+[2020.06.07-19.45.24:570][754]Cmd: SELECT NONE
+[2020.06.07-19.45.25:428][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.45.25:478][844]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.45.25:501][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.45.25:501][844]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:45:25)
+[2020.06.07-19.45.25:501][844]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.45.25:505][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004325s)
+[2020.06.07-19.45.25:506][844]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.45.25:506][844]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2020.06.07-19.45.25:507][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005610s)
+[2020.06.07-19.45.25:550][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.45.25:561][844]LogInit: FAudioDevice initialized.
+[2020.06.07-19.45.25:594][844]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.45.25:595][844]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.45.25
+[2020.06.07-19.45.25:595][844]LogWorld: Bringing up level for play took: 0.000994
+[2020.06.07-19.45.25:609][844]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.505
+[2020.06.07-19.45.33:358][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.45.33:400][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.45.33:437][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.45.33:466][510]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.06.07-19.45.37:364][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tube)
+[2020.06.07-19.45.40:234][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.45.46:248][627]Cmd: TRANSACTION UNDO
+[2020.06.07-19.45.46:248][627]LogEditorTransaction: Undo Scale Actors
+[2020.06.07-19.45.56:306][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.45.56:340][585]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.45.56:360][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.45.56:360][585]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:45:56)
+[2020.06.07-19.45.56:360][585]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.45.56:364][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004395s)
+[2020.06.07-19.45.56:365][585]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.45.56:365][585]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2020.06.07-19.45.56:365][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005350s)
+[2020.06.07-19.45.56:411][585]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.45.56:424][585]LogInit: FAudioDevice initialized.
+[2020.06.07-19.45.56:456][585]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.45.56:457][585]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.45.56
+[2020.06.07-19.45.56:457][585]LogWorld: Bringing up level for play took: 0.000984
+[2020.06.07-19.45.56:470][585]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.634
+[2020.06.07-19.45.59:364][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.45.59:409][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.45.59:445][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.45.59:473][830]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.06.07-19.46.00:814][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tube)
+[2020.06.07-19.46.04:073][313]Cmd: SELECT NONE
+[2020.06.07-19.46.05:275][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.46.05:350][464]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.46.05:370][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.46.05:370][464]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:46:05)
+[2020.06.07-19.46.05:370][464]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.46.05:374][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004261s)
+[2020.06.07-19.46.05:375][464]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.46.05:375][464]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2020.06.07-19.46.05:375][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005038s)
+[2020.06.07-19.46.05:419][464]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.46.05:430][464]LogInit: FAudioDevice initialized.
+[2020.06.07-19.46.05:466][464]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.46.05:467][464]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.46.05
+[2020.06.07-19.46.05:467][464]LogWorld: Bringing up level for play took: 0.001065
+[2020.06.07-19.46.05:480][464]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.376
+[2020.06.07-19.46.18:745][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.46.18:791][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.46.18:828][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.46.18:856][589]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.07-19.46.28:252][429]Cmd: SELECT NONE
+[2020.06.07-19.46.28:977][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tube)
+[2020.06.07-19.46.31:116][737]Cmd: DELETE
+[2020.06.07-19.46.31:116][737]Cmd: ACTOR DELETE
+[2020.06.07-19.46.31:125][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.07-19.46.31:159][737]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.07-19.46.31:671][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.46.35:123][104]LogEditorViewport: Clicking Background
+[2020.06.07-19.46.35:890][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.46.38:563][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.46.53:004][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.46.53:070][978]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.46.53:092][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.46.53:092][978]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:46:53)
+[2020.06.07-19.46.53:092][978]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.46.53:096][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004293s)
+[2020.06.07-19.46.53:097][978]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.46.53:097][978]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2020.06.07-19.46.53:097][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005089s)
+[2020.06.07-19.46.53:139][978]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.46.53:150][978]LogInit: FAudioDevice initialized.
+[2020.06.07-19.46.53:182][978]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.46.53:183][978]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.46.53
+[2020.06.07-19.46.53:183][978]LogWorld: Bringing up level for play took: 0.000922
+[2020.06.07-19.46.53:196][978]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.092
+[2020.06.07-19.47.00:679][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.47.00:715][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.47.00:750][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.47.00:791][639]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.06.07-19.47.11:604][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.47.11:662][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.47.11:683][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.47.11:683][692]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:47:11)
+[2020.06.07-19.47.11:683][692]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.47.11:687][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004317s)
+[2020.06.07-19.47.11:688][692]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.47.11:689][692]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2020.06.07-19.47.11:689][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005728s)
+[2020.06.07-19.47.11:730][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.47.11:742][692]LogInit: FAudioDevice initialized.
+[2020.06.07-19.47.11:778][692]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.47.11:779][692]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.47.11
+[2020.06.07-19.47.11:779][692]LogWorld: Bringing up level for play took: 0.000961
+[2020.06.07-19.47.11:792][692]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.688
+[2020.06.07-19.47.13:233][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.47.13:275][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.47.13:312][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.47.13:342][818]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.06.07-19.47.18:824][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.47.18:890][330]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.47.18:910][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.47.18:911][330]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:47:18)
+[2020.06.07-19.47.18:911][330]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.47.18:915][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004238s)
+[2020.06.07-19.47.18:915][330]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.47.18:915][330]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2020.06.07-19.47.18:915][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005026s)
+[2020.06.07-19.47.18:957][330]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.47.18:968][330]LogInit: FAudioDevice initialized.
+[2020.06.07-19.47.19:002][330]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.47.19:003][330]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.47.19
+[2020.06.07-19.47.19:003][330]LogWorld: Bringing up level for play took: 0.000982
+[2020.06.07-19.47.19:016][330]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.088
+[2020.06.07-19.47.24:896][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.47.24:934][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.47.24:971][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.47.24:999][852]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.06.07-19.47.28:502][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.47.46:601][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.48.14:800][382]Cmd: SELECT NONE
+[2020.06.07-19.48.16:060][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.48.16:143][543]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.48.16:164][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.48.16:164][543]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:48:16)
+[2020.06.07-19.48.16:164][543]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.48.16:169][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004387s)
+[2020.06.07-19.48.16:170][543]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.48.16:170][543]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2020.06.07-19.48.16:170][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005692s)
+[2020.06.07-19.48.16:211][543]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.48.16:222][543]LogInit: FAudioDevice initialized.
+[2020.06.07-19.48.16:253][543]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.48.16:254][543]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.48.16
+[2020.06.07-19.48.16:254][543]LogWorld: Bringing up level for play took: 0.000905
+[2020.06.07-19.48.16:267][543]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.837
+[2020.06.07-19.48.23:260][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.48.23:299][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.48.23:337][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.48.23:363][161]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.06.07-19.48.32:588][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.48.50:016][325]Cmd: DELETE
+[2020.06.07-19.48.50:017][325]Cmd: ACTOR DELETE
+[2020.06.07-19.48.50:023][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.07-19.48.50:056][325]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.06.07-19.48.51:633][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.48.51:755][448]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.48.53:370][591]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.49.04:231][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.49.04:289][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.49.04:310][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.49.04:310][692]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:49:04)
+[2020.06.07-19.49.04:310][692]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.49.04:315][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004305s)
+[2020.06.07-19.49.04:315][692]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.49.04:315][692]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2020.06.07-19.49.04:316][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005050s)
+[2020.06.07-19.49.04:359][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.49.04:371][692]LogInit: FAudioDevice initialized.
+[2020.06.07-19.49.04:403][692]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.49.04:404][692]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.49.04
+[2020.06.07-19.49.04:404][692]LogWorld: Bringing up level for play took: 0.000915
+[2020.06.07-19.49.04:417][692]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.687
+[2020.06.07-19.49.13:143][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.49.13:178][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.49.13:214][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.49.13:253][471]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.06.07-19.49.16:790][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.49.18:459][976]Cmd: DELETE
+[2020.06.07-19.49.18:459][976]Cmd: ACTOR DELETE
+[2020.06.07-19.49.18:466][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.07-19.49.18:501][976]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.06.07-19.49.43:924][268]LogSavePackage: Moving '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/MainLevel_Auto3BD89346145A158000630A6A3A44448D8.tmp' to '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/Autosaves/Game/LEVEL/MainLevel_Auto3.umap'
+[2020.06.07-19.49.43:928][268]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LEVEL/MainLevel' took 0.181
+[2020.06.07-19.49.43:928][268]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.181
+[2020.06.07-19.49.43:930][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Shapes/tube] ([1] browsable assets)...
+[2020.06.07-19.49.43:945][268]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Shapes/tube.tube]
+[2020.06.07-19.49.43:945][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Shapes/tube]
+[2020.06.07-19.49.43:965][268]LogSavePackage: Moving '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/tube_Auto340D4A90A41B920DAE12E2081CAB514E2.tmp' to '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/Autosaves/Game/StarterContent/Shapes/tube_Auto3.uasset'
+[2020.06.07-19.49.43:967][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Shapes/ramp_Cylinder_001] ([1] browsable assets)...
+[2020.06.07-19.49.43:983][268]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Shapes/ramp_Cylinder_001.ramp_Cylinder_001]
+[2020.06.07-19.49.43:983][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Shapes/ramp_Cylinder_001]
+[2020.06.07-19.49.44:003][268]LogSavePackage: Moving '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/ramp_Cylinder_001_Auto3B23ABF33441071A868FEA28F8B45BF5D.tmp' to '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/Autosaves/Game/StarterContent/Shapes/ramp_Cylinder_001_Auto3.uasset'
+[2020.06.07-19.49.44:005][268]LogFileHelpers: Auto-saving content packages took 0.076
+[2020.06.07-19.49.55:548][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.49.55:691][471]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.49.56:381][529]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.49.57:841][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.50.03:532][213]Cmd: SELECT NONE
+[2020.06.07-19.50.04:705][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.50.06:554][498]Cmd: SELECT NONE
+[2020.06.07-19.50.36:376][497]LogEditorViewport: Clicking Background
+[2020.06.07-19.50.36:977][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.50.44:834][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.50.46:321][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.50.47:199][648]Cmd: DELETE
+[2020.06.07-19.50.47:199][648]Cmd: ACTOR DELETE
+[2020.06.07-19.50.47:207][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.07-19.50.47:243][648]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.06.07-19.50.55:720][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.51.17:483][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.51.18:853][276]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.06.07-19.51.25:452][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.52.13:271][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.52.14:146][756]LogEditorViewport: Clicking Background
+[2020.06.07-19.52.14:813][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.52.16:304][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.52.17:214][ 42]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.06.07-19.52.19:115][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.52.25:038][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.10:938][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.14:503][704]Cmd: DELETE
+[2020.06.07-19.53.14:503][704]Cmd: ACTOR DELETE
+[2020.06.07-19.53.14:514][704]LogEditorActor: Deleted Actor: Brush
+[2020.06.07-19.53.14:558][704]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.06.07-19.53.18:052][114]Cmd: DELETE
+[2020.06.07-19.53.18:052][114]Cmd: ACTOR DELETE
+[2020.06.07-19.53.18:063][114]LogEditorActor: Deleted Actor: Brush
+[2020.06.07-19.53.18:105][114]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.06.07-19.53.19:461][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.21:917][550]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.06.07-19.53.24:190][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.31:036][453]LogEditorViewport: Clicking Background
+[2020.06.07-19.53.34:520][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.36:771][  9]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.06.07-19.53.40:739][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.47:477][104]Cmd: SELECT NONE
+[2020.06.07-19.53.48:580][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.50:846][438]LogEditorViewport: Clicking Background
+[2020.06.07-19.53.51:991][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.53.53:320][680]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.06.07-19.53.56:825][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.54.00:589][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.54.07:423][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.54.17:264][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.54.45:988][795]LogEditorViewport: Clicking Background
+[2020.06.07-19.54.52:229][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.54.58:125][889]Cmd: TRANSACTION UNDO
+[2020.06.07-19.54.58:126][889]LogEditorTransaction: Undo Scale Actors
+[2020.06.07-19.54.58:682][915]Cmd: TRANSACTION UNDO
+[2020.06.07-19.54.58:682][915]LogEditorTransaction: Undo Scale Actors
+[2020.06.07-19.55.01:615][205]Cmd: SELECT NONE
+[2020.06.07-19.55.04:898][534]Cmd: DELETE
+[2020.06.07-19.55.04:898][534]Cmd: ACTOR DELETE
+[2020.06.07-19.55.04:913][534]LogEditorActor: Deleted Actor: Brush
+[2020.06.07-19.55.04:956][534]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2020.06.07-19.55.12:372][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.55.12:541][373]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Shapes/ramp_Cylinder_001.ramp_Cylinder_001
+[2020.06.07-19.55.13:470][373]LogRenderer: Reallocating scene render targets to support 1064x736 Format 10 NumSamples 1 (Frame:1).
+[2020.06.07-19.55.13:470][373]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.07-19.55.35:421][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.56.20:610][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.56.58:034][433]LogSavePackage: Moving '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/ramp_Cylinder_001C105BC4044286644D1B089A08A9D25DA.tmp' to '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/StarterContent/Shapes/ramp_Cylinder_001.uasset'
+[2020.06.07-19.56.59:854][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.56.59:903][546]LogSlate: Window 'ramp_Cylinder_001' being destroyed
+[2020.06.07-19.56.59:922][546]LogSlate: Window 'ramp_Cylinder_001' being destroyed
+[2020.06.07-19.57.02:797][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.57.02:922][811]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.57.03:513][864]LogActorFactory: Actor Factory created ramp_Cylinder_001
+[2020.06.07-19.57.04:968][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.57.26:544][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.57.46:024][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.57.46:091][150]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.57.46:111][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.57.46:112][150]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:57:46)
+[2020.06.07-19.57.46:112][150]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.57.46:117][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005355s)
+[2020.06.07-19.57.46:118][150]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.57.46:118][150]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2020.06.07-19.57.46:118][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.006369s)
+[2020.06.07-19.57.46:164][150]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.57.46:175][150]LogInit: FAudioDevice initialized.
+[2020.06.07-19.57.46:204][150]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.57.46:205][150]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.57.46
+[2020.06.07-19.57.46:205][150]LogWorld: Bringing up level for play took: 0.000925
+[2020.06.07-19.57.46:218][150]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel -0.886
+[2020.06.07-19.57.51:738][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.57.51:775][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.57.51:814][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.57.51:838][655]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.06.07-19.57.53:452][848]Cmd: SELECT NONE
+[2020.06.07-19.57.59:511][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.58.16:277][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.58.45:858][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.58.45:924][188]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-19.58.45:944][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-19.58.45:944][188]PIE: New page: PIE session: MainLevel (7 Jun 2020 23:58:45)
+[2020.06.07-19.58.45:944][188]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-19.58.45:950][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005229s)
+[2020.06.07-19.58.45:950][188]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-19.58.45:950][188]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2020.06.07-19.58.45:950][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.006042s)
+[2020.06.07-19.58.45:994][188]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-19.58.46:005][188]LogInit: FAudioDevice initialized.
+[2020.06.07-19.58.46:038][188]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-19.58.46:040][188]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-21.58.46
+[2020.06.07-19.58.46:040][188]LogWorld: Bringing up level for play took: 0.000933
+[2020.06.07-19.58.46:053][188]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.949
+[2020.06.07-19.58.52:911][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.58.52:946][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-19.58.52:982][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-19.58.53:021][833]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.06.07-19.59.02:014][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ramp_Cylinder_001)
+[2020.06.07-19.59.10:443][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.59.12:163][691]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Shapes/tube.tube
+[2020.06.07-19.59.14:598][817]LogSlate: Window 'tube*' being destroyed
+[2020.06.07-19.59.14:618][817]LogSlate: Window 'tube*' being destroyed
+[2020.06.07-19.59.20:766][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.59.20:929][270]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Shapes/tube.tube
+[2020.06.07-19.59.22:728][359]LogSlate: Window 'tube*' being destroyed
+[2020.06.07-19.59.22:748][359]LogSlate: Window 'tube*' being destroyed
+[2020.06.07-19.59.24:524][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.59.24:866][457]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Shapes/tube.tube
+[2020.06.07-19.59.31:562][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-19.59.34:313][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.59.34:410][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Shapes/tube" FILE="../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/StarterContent/Shapes/tube.uasset" SILENT=true
+[2020.06.07-19.59.34:429][962]LogSavePackage: Moving '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Saved/tubeADB380E94427ECB28BBD1C9445E4DA08.tmp' to '../../../../../../Users/guzim/OneDrive/Obrazy/PROGRAMOWANIE/BallRunner/Content/StarterContent/Shapes/tube.uasset'
+[2020.06.07-19.59.35:300][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.59.35:350][ 19]LogSlate: Window 'tube' being destroyed
+[2020.06.07-19.59.35:369][ 19]LogSlate: Window 'tube' being destroyed
+[2020.06.07-19.59.36:695][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-19.59.36:852][140]LogActorFactory: Actor Factory created tube
+[2020.06.07-19.59.37:471][195]LogActorFactory: Actor Factory created tube
+[2020.06.07-19.59.51:981][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-20.00.17:909][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-20.00.17:967][191]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.07-20.00.17:989][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.07-20.00.17:989][191]PIE: New page: PIE session: MainLevel (8 Jun 2020 00:00:17)
+[2020.06.07-20.00.17:989][191]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_MainLevel
+[2020.06.07-20.00.17:995][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005073s)
+[2020.06.07-20.00.17:995][191]LogAIModule: Creating AISystem for world MainLevel
+[2020.06.07-20.00.17:995][191]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2020.06.07-20.00.17:995][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MainLevel.MainLevel to /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel (0.005853s)
+[2020.06.07-20.00.18:042][191]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.07-20.00.18:054][191]LogInit: FAudioDevice initialized.
+[2020.06.07-20.00.18:088][191]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.06.07-20.00.18:090][191]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2020.06.07-22.00.18
+[2020.06.07-20.00.18:090][191]LogWorld: Bringing up level for play took: 0.000932
+[2020.06.07-20.00.18:103][191]PIE: Play in editor start time for /Game/LEVEL/UEDPIE_0_MainLevel 0.999
+[2020.06.07-20.00.25:343][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-20.00.25:380][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.07-20.00.25:418][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-20.00.25:442][810]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.06.07-20.00.47:431][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-20.00.50:012][372]LogActorFactory: Actor Factory created Shape_Cube
+[2020.06.07-20.00.50:946][456]LogActorFactory: Actor Factory created Shape_Cube
+[2020.06.07-20.01.13:175][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-20.01.13:192][518]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.06.07-20.01.13:192][518]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.06.07-20.01.16:571][518]LogWindows: Error: === Critical error: ===
+[2020.06.07-20.01.16:571][518]LogWindows: Error: 
+[2020.06.07-20.01.16:571][518]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 629] 
+[2020.06.07-20.01.16:571][518]LogWindows: Error: Attempted to create a package named 'None'
+[2020.06.07-20.01.16:571][518]LogWindows: Error: 
+[2020.06.07-20.01.16:571][518]LogWindows: Error: 
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff92ae8a799 KERNELBASE.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8e9626850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8d5df62fc UE4Editor-Core.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8d5d851db UE4Editor-Core.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8d480f6ab UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8d050d4bb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8cfca54bf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8cfc3e84f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8cfc793a3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0a79a86 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0b39c36 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0bd9734 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0b93e33 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0baacab UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0bac2c8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0c00dfd UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8d15bfa4a UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8c0aed515 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8dd54de9d UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:571][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d157efcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d157f266 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c8a6 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ec31 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ca04 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d15840fd UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d157efcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54c289 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d157efcd UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e063 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd501516 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54ee89 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8dd54e930 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d131d5bc UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d131e709 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:572][518]LogWindows: Error: [Callstack] 0x00007ff8d1353783 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff8d131e7cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff8d137f010 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff8d137dd17 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff6d37c6aa7 UE4Editor.exe!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff6d37d5b3c UE4Editor.exe!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff6d37d5bba UE4Editor.exe!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff6d37e3dac UE4Editor.exe!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff6d37e5aaa UE4Editor.exe!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff92b7d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: [Callstack] 0x00007ff92d28ce51 ntdll.dll!UnknownFunction []
+[2020.06.07-20.01.16:573][518]LogWindows: Error: 
+[2020.06.07-20.01.16:590][518]LogExit: Executing StaticShutdownAfterError
+[2020.06.07-20.01.16:593][518]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.06.07-20.01.16:602][518]Log file closed, 06/07/20 22:01:16
